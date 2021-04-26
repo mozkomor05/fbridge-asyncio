@@ -7,4 +7,4 @@ Read its description for more information.
 Bridges Facebook Messenger through the Matterbridge API interface.
 
 - Unlike *fbridge-asyncio*, *fbridge-universal* automatically fetches usernames.
-
+- Uses official Facebook Graph API.
